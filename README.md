@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![giphy](https://github.com/erica1088/erica1088/assets/140564845/50931bfe-9d21-4b49-8866-859c9b617ee9)
 
-**erica1088/erica1088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
